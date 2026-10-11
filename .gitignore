@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.env
+Python Cheat Sheet for Data Analysis.pdf
